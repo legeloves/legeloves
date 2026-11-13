@@ -12,8 +12,14 @@ framework, no ORM.
 
 ### Repos
 
+- **[dropvault](https://github.com/legeloves/dropvault)** — local-network
+  scratchpad in Go, built from the socket up. Raw HTTP/1.1, append-only binary
+  store, zero dependencies.
 - **[Audio-Player](https://github.com/legeloves/Audio-Player)** — desktop audio
   player in C++ on JUCE. Transport controls, seek slider, playback queue.
 - **[Ramen](https://github.com/legeloves/ramen)** — my fork of
   [RamenDR](https://github.com/RamenDR/ramen), Kubernetes-native disaster
   recovery written in Go. I'm reading the controller reconcile loops.
+- **[BudgetWise](https://github.com/MohamedTech98/Personal-Budget)** — Django
+  personal-finance app, built with a team of four. I wrote the budgets and goals
+  apps.
