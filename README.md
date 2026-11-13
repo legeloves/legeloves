@@ -1,0 +1,20 @@
+# Ahmed Eltaher Bakry
+
+Third-year computer science student at **FCAI, Cairo University**. I write **Go**
+and **C++**, and I'd rather build the layer underneath than import it — sockets,
+buffers, file formats.
+
+### Right now
+
+Writing an HTTP/1.1 server in Go straight on `net.Listen` / `Accept`: request
+line and header parsing by hand, one goroutine per connection with a read
+deadline, and an append-only binary file as the storage engine. No web
+framework, no ORM.
+
+### Repos
+
+- **[Audio-Player](https://github.com/legeloves/Audio-Player)** — desktop audio
+  player in C++ on JUCE. Transport controls, seek slider, playback queue.
+- **[Ramen](https://github.com/legeloves/ramen)** — my fork of
+  [RamenDR](https://github.com/RamenDR/ramen), Kubernetes-native disaster
+  recovery written in Go. I'm reading the controller reconcile loops.
