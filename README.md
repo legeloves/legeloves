@@ -12,9 +12,8 @@ framework, no ORM.
 
 ### Repos
 
-- **[dropvault](https://github.com/legeloves/dropvault)** — local-network
-  scratchpad in Go, built from the socket up. Raw HTTP/1.1, append-only binary
-  store, zero dependencies.
+- **[wirevault](https://github.com/legeloves/wirevault)** — little Go server for
+  pasting text from my phone to my PC over Wi-Fi. Raw sockets, no dependencies.
 - **[Audio-Player](https://github.com/legeloves/Audio-Player)** — desktop audio
   player in C++ on JUCE. Transport controls, seek slider, playback queue.
 - **[Ramen](https://github.com/legeloves/ramen)** — my fork of
