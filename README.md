@@ -12,8 +12,8 @@ framework, no ORM.
 
 ### Repos
 
-- **[wirevault](https://github.com/legeloves/wirevault)** — little Go server for
-  pasting text from my phone to my PC over Wi-Fi. Raw sockets, no dependencies.
+- **Go server** — the HTTP/1.1 server I'm building right now. Private until it
+  actually answers a request.
 - **[Audio-Player](https://github.com/legeloves/Audio-Player)** — desktop audio
   player in C++ on JUCE. Transport controls, seek slider, playback queue.
 - **[Ramen](https://github.com/legeloves/ramen)** — my fork of
