@@ -1,8 +1,7 @@
 # Ahmed Eltaher Bakry
 
 Third-year computer science student at **FCAI, Cairo University**. I write **Go**
-and **C++**, and I'd rather build the layer underneath than import it — sockets,
-buffers, file formats.
+and **C++**. 
 
 ### Right now
 
